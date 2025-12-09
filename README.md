@@ -1,9 +1,4 @@
 # Lris
-好的，基于您提供的 **“简易图书馆资源管理系统”** README 格式特点，我为您生成一份内容丰富且结构完全对应的 **鸢尾花项目 README**。
-
-这份文档强调了项目的功能、技术栈，并提供了清晰的架构和运行方法。
-
------
 
 # 🌸 Project 3: 鸢尾花数据分类与可视化 (Iris Data Classification and Visualization)
 
