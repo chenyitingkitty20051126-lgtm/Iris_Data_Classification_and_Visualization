@@ -25,7 +25,6 @@
 ## 程序架构（Illustration 图示）
 
 <img src="illustration/illustration.png" width="550">
-本项目的架构流程展示了从低维到高维、从线性到非线性的模型可视化探索路径。
 
 -----
 
